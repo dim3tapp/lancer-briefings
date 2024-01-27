@@ -120,7 +120,7 @@ export default {
         {
           callsign: "OMEN",
           alias: "Zacharias Morrison",
-          code: "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          code: "Morrison.Zacharias:3abcea30-311a-4c23-8425-09837aaaecbf//NDL-C-BRONZE-HAMMER",
           corpro: "SSC",
           frame: "Monarch",
           mech: "Brilliant Raptor",
@@ -128,7 +128,7 @@ export default {
         {
           callsign: "THORN",
           alias: "Ferrous Foss",
-          code: "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          code: "Foss.Ferrous:3a822132-785b-4f68-9d6a-32cdd70baf23//NDL-C-UNBENT-CRYPT",
           corpro: "IPS-N",
           frame: "Blackbeard",
           mech: "Conjoined Torment",
@@ -136,7 +136,7 @@ export default {
         {
           callsign: "STARCHILD",
           alias: "Jesk Oranzo",
-          code: "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          code: "Oranzo.Jesk:4ede1e58-01c8-498d-a1f2-5e4fc3b93435//NDL-C-NULL-TEMPLE",
           corpro: "HORUS",
           frame: "Gorgon",
           mech: "Last Vision",
@@ -144,7 +144,7 @@ export default {
         {
           callsign: "PROPHET",
           alias: "Greva Banard",
-          code: "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          code: "Banard.Greva:98ca9616-044e-4f87-b89b-aae4eb3387ec//NDL-C-DEEP-STATION",
           corpro: "HA",
           frame: "Barbarossa",
           mech: "MACHINE GOD",
