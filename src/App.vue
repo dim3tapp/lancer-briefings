@@ -32,7 +32,7 @@
     >
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
-        <h1>Events Log</h1>
+        <h1>Mission Briefing</h1>
       </div>
       <div class="section-content-container">
         <Markdown :source="events" class="markdown" />
