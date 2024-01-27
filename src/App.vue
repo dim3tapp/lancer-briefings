@@ -101,7 +101,7 @@ export default {
 
   data() {
     return {
-      mission_slug: "001",
+      mission_slug: "003",
       current_md: "",
       events: "",
       missions: [
@@ -113,6 +113,11 @@ export default {
         {
           slug: "002",
           name: "OPERATION?ASTEROID HOPPING",
+          status: "success",
+        },
+        {
+          slug: "003",
+          name: "OPERATION?ALMOST HUMAN",
           status: "start",
         },
       ],
@@ -151,15 +156,15 @@ export default {
         },
       ],
       header: {
-        planet: "Hercynia",
-        year: "5014u",
-        system: "Ardennes-3",
-        gate: "Atlas-Quanokrim",
-        ring: "Atlas-Line",
-        headerTitle: "Mirrorsmoke",
-        headerSubtitle: "Mercenary Company",
-        subheaderTitle: "Crisis Response",
-        subheaderSubtitle: "Delta-Echo-Echo-Zulu",
+        planet: "Otionip",
+        year: "5012u",
+        system: "Peles",
+        gate: "Karakoram-Gasherbrum",
+        ring: "Karakoram-Line",
+        headerTitle: "STAR*SEA",
+        headerSubtitle: "HI-SECURITY",
+        subheaderTitle: "High Security",
+        subheaderSubtitle: "Intelligence & Operations",
       },
       options: {
         eventsMarkdownPerMission: true,
